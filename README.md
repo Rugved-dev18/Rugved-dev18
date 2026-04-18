@@ -117,12 +117,17 @@
 
 # 📊 GitHub Contribution Graph
 
-[![Rugved-dev18 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rugved-dev18&theme=dracula)](https://github.com/Rugved-dev18/github-readme-activity-graph) 
- 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rugved-dev18&theme=tokyo-night)
 
-# 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=Rugved-dev18&theme=dark&hide_border=false)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rugved-dev18&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rugved-dev18&theme=tokyonight&cache_seconds=60)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved-dev18&layout=compact&theme=tokyonight)
+
 
 <h3 align="center">
  <a href="https://github.com/Rugved-dev18">
