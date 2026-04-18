@@ -22,25 +22,38 @@
 <p align="center">
 
 <!--- Adding Header Elements -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/rugved-narkar-22000b314/">
-       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/1391057935840444457">
-       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/rugved_018/">
-         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&to=narkarrugved100@gmail.com">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://x.com/18Rugved10">
-       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/>
 
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/rugved-narkar-22000b314/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"
+       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+</a>
+
+<a href="https://discordapp.com/users/1391057935840444457">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40"
+       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+</a>
+
+<a href="https://www.instagram.com/rugved_018/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"
+       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&to=narkarrugved100@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"
+       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+</a>
+
+<a href="https://x.com/18Rugved10">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40"
+       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+</a>
+
+</div>
+
+
+
 <h3 align="center">Code. Learn. Build. Repeat.</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1500">
