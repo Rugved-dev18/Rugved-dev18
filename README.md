@@ -139,11 +139,11 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rugved-dev18&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.shion.dev/api?username=Rugved-dev18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rugved-dev18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rugved-dev18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rugved-dev18&theme=tokyonight&cache_seconds=60)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved-dev18&layout=compact&theme=tokyonight)
+---
 
 
 <h3 align="center">
