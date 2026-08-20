@@ -116,7 +116,8 @@
 | 💻 Software Development | 🧩 DSA | 🤖 Artificial intelligence  |
 | ⚙️ System Design | ☁️ Cloud Computing | 🌐 REST APIs |
 | 🗄️ Database Management | 💾 Operating Systems | 🔄 GitHub Actions  |
-| 🗄️ DBMS | 🐧 Open Source | 🚀 Problem Solving |
+| 📦Object-Oriented Programming   | 🐧 Open Source | 🚀 Problem Solving |
+
 
 
 
