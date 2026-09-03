@@ -137,7 +137,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rugved-dev18&theme=tokyo-night)
 
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Rugved-dev18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
