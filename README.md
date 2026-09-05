@@ -56,8 +56,10 @@
 
 <h3 align="center">Code. Learn. Build. Repeat.</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1500">
-<br><br>
+![Build Personal Octocat](https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png)
+
+<br>
+
 
 <br><br> 
 <!-- ================= CYBERPUNK AI CORE ================= -->
@@ -106,6 +108,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00f5ff&height=3"/>
 </div>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
+
 
 <!-- =========================================================== -->
 
@@ -184,13 +191,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<h4 align="left">
-</h4>
+<h2 align="left">
+</h2>
+
+
  
 ╔═&nbsp;&nbsp;👀 T&nbsp;H&nbsp;A&nbsp;N&nbsp;K&nbsp;S&nbsp;F&nbsp;O&nbsp;R&nbsp;V&nbsp;I&nbsp;S&nbsp;I&nbsp;T&nbsp; 👀
 <h4>
 <h4 align="left">  
- 
 ╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
 <h4>
 
