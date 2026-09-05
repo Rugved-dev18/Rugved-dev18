@@ -85,7 +85,7 @@
 ╠══════════════════════════════════════════════════════╣
 ║  NAME          :: Rugved Narkar                      ║
 ║  DESTINATION   :: Backend Developer                  ║
-║  SPECIALTY     :: Golang | JS | TS                   ║
+║  SPECIALTY     :: Golang | JS | TS | Python          ║
 ║  STACK         :: Go | JS | MongoDB | REST APIs      ║
 ║  CURRENT_MODE  :: Open Source Contribution           ║
 ║  AI_DIRECTIVE  :: Autonomous Workflow Engineering    ║
