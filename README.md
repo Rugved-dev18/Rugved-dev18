@@ -81,29 +81,7 @@
 <!-- LEFT SIDE → Bash Panel -->
 <td width="60%">
 
-<pre>
-╔══════════════════════════════════════════════════════╗
-║               >> NEURAL IDENTITY CORE <<             ║
-╠══════════════════════════════════════════════════════╣
-║  NAME          :: Rugved Narkar                      ║
-║  DESTINATION   :: Backend Developer                  ║
-║  SPECIALTY     :: Golang | JS | TS | Python          ║
-║  STACK         :: Go | JS | MongoDB | REST APIs      ║
-║  CURRENT_MODE  :: Open Source Contribution           ║
-║  AI_DIRECTIVE  :: Autonomous Workflow Engineering    ║
-║  MISSION_2026  :: GSoC | Open Source Domination      ║
-║  MINDSET       :: Stoic Protocol Activated           ║
-║  CONTACT_NODE  :: narkarrugved100@gmail.com          ║
-╚══════════════════════════════════════════════════════╝
-</pre>											
-</td>
-<td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" />
-</td>
 
-<td width="10%">
-</tr>
-</table
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00f5ff&height=3"/>
