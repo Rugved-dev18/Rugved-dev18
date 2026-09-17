@@ -140,9 +140,6 @@
 | **Cloud & DevOps** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> |
 | **Tools & Design** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> |
 
-# 📊 GitHub Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rugved-dev18&theme=tokyo-night)
 
 # 📊 GitHub Stats
 
