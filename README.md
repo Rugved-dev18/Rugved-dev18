@@ -177,13 +177,7 @@ I believe in learning by building ,turning ideas into working products, contribu
 <div align="center">
 
 ---
-![My GitHub Game](game.gif)
 
----
-[![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<h2 align="left">
-</h2>
 
 
  
