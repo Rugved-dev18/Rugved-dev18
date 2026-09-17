@@ -81,7 +81,23 @@
 <!-- LEFT SIDE → Bash Panel -->
 <td width="60%">
 
+## Who I Am
 
+I'm a 3rd-year Computer Science & Engineering student focused on becoming an AI-integrated Software Engineer. I enjoy building practical software, exploring AI/ML, and understanding how systems work under the hood.
+
+I’m currently strengthening my foundations in DSA, OOP, Operating Systems, DBMS, Computer Networks and System Design, while building projects that combine software engineering with AI.
+
+I believe in learning by building ,turning ideas into working products, contributing to open source, and continuously improving through real-world projects.
+
+• 🧠 Exploring AI + Software Engineering
+
+• 💻 Building with Python, JavaScript/TypeScript, React, FastAPI & APIs
+
+• 🧩 Practicing DSA & problem solving
+
+• 🌱 Learning System Design, Cloud & Open Source
+
+• 🚀 Goal: AI-integrated Software Engineer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00f5ff&height=3"/>
