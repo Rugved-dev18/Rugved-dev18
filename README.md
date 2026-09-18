@@ -108,6 +108,31 @@ I believe in learning by building ,turning ideas into working products, contribu
 <br><br>
 
 
+## 🔗 Projects
+
+### [Polar Nav X — AI-Powered Antarctic Navigation Decision Support](https://github.com/Rugved-dev18/POLAR-NAV-X)
+> React · Leaflet · FastAPI · Python · XGBoost · A* · Geospatial Data
+
+An AI-powered decision-support system designed to analyze Antarctic
+sea-ice and iceberg movement and support safer navigation decisions.
+
+**Key work:** XGBoost-based iceberg trajectory prediction, interactive
+Antarctic map visualization, risk-aware navigation logic, and FastAPI
+backend integration.
+
+
+###  [Samudra AI — AI-Powered Ocean Intelligence Platform](YOUR-SAMUDRA-AI-REPO-LINK)
+> Python · AI/ML · Data Analysis · APIs · Geospatial Data
+
+An AI-powered platform focused on analyzing ocean-related data and
+providing intelligent insights for maritime and environmental use cases.
+
+**Key work:** AI-driven analysis, data processing, visualization,
+and intelligent decision-support features.
+
+AI/ML Project
+
+
 <!-- =========================================================== -->
 
 ## 🎯 Core Skills
