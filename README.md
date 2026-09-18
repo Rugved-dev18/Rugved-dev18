@@ -26,32 +26,26 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rugved-narkar-22000b314/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"
-       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-Rugved%20Narkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://discordapp.com/users/1391057935840444457">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40"
-       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/Discord-Rugved-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/rugved_018/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"
-       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/Instagram-@rugved__018-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&to=narkarrugved100@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"
-       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/Email-narkarrugved100%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://x.com/18Rugved10">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40"
-       style="display:block; margin:12px auto; padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/X-@18Rugved10-000000?style=flat-square&logo=x&logoColor=white" />
 </a>
 
 </div>
-
 
 
 <h3 align="center">Code. Learn. Build. Repeat.</h3>
