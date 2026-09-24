@@ -115,7 +115,7 @@ Antarctic map visualization, risk-aware navigation logic, and FastAPI
 backend integration.
 
 
-###  [Samudra AI — AI-Powered Ocean Intelligence Platform](YOUR-SAMUDRA-AI-REPO-LINK)
+###  [Samudra AI — AI-Powered Ocean Intelligence Platform](https://github.com/Rugved-dev18/SAMUDRA-INDIA)
 > Python · AI/ML · Data Analysis · APIs · Geospatial Data
 
 An AI-powered platform focused on analyzing ocean-related data and
